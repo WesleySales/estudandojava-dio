@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/.idea
+/estudandojava-dio.iml
 
 ### Eclipse ###
 .apt_generated
@@ -28,5 +30,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/.idea
-/estudandojava-dio.iml
