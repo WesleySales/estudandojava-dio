@@ -1,1 +1,3 @@
-Estudando Java com base no bootcamp Santander/Dio 
+JAVA| Roteiro de estudos
+
+Iniciando estudos Java com base no Bootcamp Santander | Dio, Canal DevDojo e pesquisas livres.
